@@ -1,14 +1,10 @@
 {
-  "name": "dukpt",
-  "version": "2.0.1",
+  "name": "idukpt",
+  "version": "0.0.1",
   "description": "Node JS Library for Derived Unique Key Per Transaction (DUKPT) Encryption",
   "main": "dist/index.js",
   "scripts": {
     "test": "gulp test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dpjayasekara/node-dukpt.git"
   },
   "keywords": [
     "dukpt",
